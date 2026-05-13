@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I started this GitHub account to keep track of any nonprofit-related work.
+
+
 <!--
 **aristidesnonprofit/aristidesnonprofit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
